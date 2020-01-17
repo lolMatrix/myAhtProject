@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">#МойАхтубинск</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="lastNewsTitle">Последнии новости</string>
+
+</resources>
